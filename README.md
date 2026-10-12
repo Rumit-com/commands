@@ -1,4 +1,4 @@
-№ some commands for arch setup
+# some commands for arch setup
 
 Thanks vvolynka for fastyay.sh
 
